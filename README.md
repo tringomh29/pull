@@ -33,7 +33,7 @@
 
 </div>
 
-## Introduction
+## Introduction.
 
 [![Version][version-badge]][version-url] [![Deno 2.0][deno-badge]][deno-url] [![TypeScript][ts-badge]][ts-url] [![License][license-badge]][license-url]
 
